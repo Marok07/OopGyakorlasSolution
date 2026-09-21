@@ -1,1 +1,4 @@
-<Solution />
+<Solution>
+  <Project Path="01_KonyvtarApp/01_KonyvtarApp.csproj" />
+  <Project Path="02_RaktarApp/02_RaktarApp.csproj" />
+</Solution>
